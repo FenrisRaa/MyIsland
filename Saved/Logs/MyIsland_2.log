@@ -1146,3 +1146,77 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.31-05.10.01:877][  0]LogViewport: Scene viewport resized to 2022x1254, mode Windowed.
 [2023.05.31-05.10.19:301][  9]LogSlate: Window 'Message Log' being destroyed
 [2023.05.31-05.10.19:307][  9]LogSlate: Window 'Message Log' being destroyed
+[2023.05.31-05.10.38:595][214]LogSlate: Window 'Plugins' being destroyed
+[2023.05.31-05.10.38:600][214]LogSlate: Window 'Plugins' being destroyed
+[2023.05.31-05.10.38:600][214]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.05.31-05.10.45:206][470]LogSlate: Window 'New Level' being destroyed
+[2023.05.31-05.10.45:211][470]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.31-05.10.45:211][470]LightingResults: New page: Lighting Build
+[2023.05.31-05.10.45:212][470]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.05.31-05.10.45:265][470]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-05.10.45:265][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-05.10.45:266][470]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2023.05.31-05.10.45:266][470]MapCheck: New page: Map Check
+[2023.05.31-05.10.45:266][470]LightingResults: New page: Lighting Build
+[2023.05.31-05.10.45:272][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-05.10.45:284][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.31-05.10.45:292][470]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.05.31-05.10.45:292][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.31-05.10.45:292][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-05.10.45:292][470]LogAIModule: Creating AISystem for world Untitled_2
+[2023.05.31-05.10.45:331][470]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.31-05.10.45:338][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.31-05.10.45:339][470]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.31-05.10.45:339][470]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2023.05.31-05.10.45:339][470]LogFileHelpers: Loading map 'Template_Default' took 0.128
+[2023.05.31-05.10.50:632][767]LogSlate: Took 0.003745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.31-05.10.54:986][ 24]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.31-05.10.54:997][ 24]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.31-05.10.55:034][ 26]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.31-05.10.59:839][312]LogContentBrowser: Attempting asset rename: NewFolder -> Level
+[2023.05.31-05.10.59:839][312]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.31-05.11.16:497][746]LogSlate: Window 'Save Level As' being destroyed
+[2023.05.31-05.11.16:536][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MyIsland" FILE="../../../../../Unreal Project/GameDevtv/Project 1/MyIsland/Content/Level/MyIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-05.11.16:544][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.31-05.11.16:549][746]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.003570 seconds
+[2023.05.31-05.11.16:551][746]LogSerialization: UsePackageTrailer: 'true'
+[2023.05.31-05.11.16:555][746]LogSavePackage: Moving output files for package: /Game/Level/MyIsland
+[2023.05.31-05.11.16:555][746]LogSavePackage: Moving '../../../../../Unreal Project/GameDevtv/Project 1/MyIsland/Saved/MyIslandA899F92D4EDCB7CB0AA6729A72C9ACD1.tmp' to '../../../../../Unreal Project/GameDevtv/Project 1/MyIsland/Content/Level/MyIsland.umap'
+[2023.05.31-05.11.16:563][746]LogFileHelpers: Saving map 'MyIsland' took 0.059
+[2023.05.31-05.11.16:563][746]Cmd: MAP LOAD FILE="../../../../../Unreal Project/GameDevtv/Project 1/MyIsland/Content/Level/MyIsland.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.31-05.11.16:563][746]LightingResults: New page: Lighting Build
+[2023.05.31-05.11.16:563][746]LoadErrors: New page: Loading map: MyIsland.umap
+[2023.05.31-05.11.16:564][746]LogWorld: UWorld::CleanupWorld for MyIsland, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-05.11.16:564][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-05.11.16:564][746]MapCheck: New page: Map Check
+[2023.05.31-05.11.16:564][746]LightingResults: New page: Lighting Build
+[2023.05.31-05.11.16:570][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-05.11.16:571][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.05.31-05.11.16:573][746]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyIsland'.
+[2023.05.31-05.11.16:574][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.31-05.11.16:574][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.31-05.11.16:574][746]LogAIModule: Creating AISystem for world MyIsland
+[2023.05.31-05.11.16:603][746]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.31-05.11.16:610][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.31-05.11.16:612][746]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.31-05.11.16:612][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2023.05.31-05.11.16:612][746]LogFileHelpers: Loading map 'MyIsland' took 0.049
+[2023.05.31-05.11.16:614][746]AssetCheck: New page: Asset Save: MyIsland
+[2023.05.31-05.11.16:614][746]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/MyIsland.MyIsland
+[2023.05.31-05.11.20:258][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.31-05.11.20:361][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.31-05.11.23:980][ 73]LogDerivedDataCache: C:/Users/amunr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.251 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5606 files in 7312 folders with total size 518 MiB.
+[2023.05.31-05.11.53:567][661]Cmd: DELETE
+[2023.05.31-05.11.53:567][661]Cmd: ACTOR DELETE
+[2023.05.31-05.11.53:569][661]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.31-05.11.53:576][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.31-05.11.53:577][661]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.31-05.12.01:652][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.31-05.12.01:670][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MyIsland" FILE="../../../../../Unreal Project/GameDevtv/Project 1/MyIsland/Content/Level/MyIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.31-05.12.01:677][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.31-05.12.01:684][144]LogSavePackage: Moving output files for package: /Game/Level/MyIsland
+[2023.05.31-05.12.01:685][144]LogSavePackage: Moving '../../../../../Unreal Project/GameDevtv/Project 1/MyIsland/Saved/MyIsland7B020CDC437D0BC10F9A4D90B3A13F09.tmp' to '../../../../../Unreal Project/GameDevtv/Project 1/MyIsland/Content/Level/MyIsland.umap'
+[2023.05.31-05.12.01:688][144]LogFileHelpers: Saving map 'MyIsland' took 0.019
+[2023.05.31-05.12.01:694][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms
+[2023.05.31-05.12.01:697][144]AssetCheck: New page: Asset Save: MyIsland
+[2023.05.31-05.12.01:697][144]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/MyIsland.MyIsland
