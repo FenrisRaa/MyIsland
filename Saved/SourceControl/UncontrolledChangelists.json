@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"G:/Unreal Project/GameDevtv/Project 1/MyIsland/Content/Level/MyIsland.umap"
+				"G:/Unreal Project/GameDevtv/Project 1/MyIsland/Content/Level/MyIsland.umap",
+				"G:/Unreal Project/GameDevtv/Project 1/MyIsland/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
